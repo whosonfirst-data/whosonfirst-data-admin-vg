@@ -40,7 +40,7 @@
         "gn:id":3740110
     },
     "wof:country":"VG",
-    "wof:geomhash":"5ea7979f4e845be0f4ffc9f3c457a6fd",
+    "wof:geomhash":"3c4746485e60368ae00e68ef777be55d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -64.38110999999999,
     18.49111
 ],
-  "geometry": {"coordinates":[-64.38110999999999,18.49111],"type":"Point"}
+  "geometry": {"coordinates":[-64.38111,18.49111],"type":"Point"}
 }
