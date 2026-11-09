@@ -80,7 +80,6 @@
     "wd:wordcount":259,
     "wof:belongsto":[
         85632629,
-        85681419,
         102191575,
         136253055
     ],
@@ -101,14 +100,13 @@
             "country_id":-1,
             "dependency_id":85632629,
             "empire_id":136253055,
-            "locality_id":421201339,
-            "region_id":85681419
+            "locality_id":421201339
         }
     ],
     "wof:id":421201339,
     "wof:lastmodified":1690921362,
     "wof:name":"Spanish Town",
-    "wof:parent_id":85681419,
+    "wof:parent_id":85632629,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-vg",
     "wof:superseded_by":[],

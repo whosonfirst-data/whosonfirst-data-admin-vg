@@ -232,8 +232,7 @@
     "wof:belongsto":[
         102191575,
         85632629,
-        85633159,
-        85681419
+        85633159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -251,14 +250,13 @@
             "continent_id":102191575,
             "country_id":85633159,
             "dependency_id":85632629,
-            "locality_id":890434937,
-            "region_id":85681419
+            "locality_id":890434937
         }
     ],
     "wof:id":890434937,
     "wof:lastmodified":1690921362,
     "wof:name":"Road Town",
-    "wof:parent_id":85681419,
+    "wof:parent_id":85632629,
     "wof:placetype":"locality",
     "wof:population":8449,
     "wof:population_rank":5,
